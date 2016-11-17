@@ -1,0 +1,8 @@
+Package: Python
+Version: 1.2
+Section: base
+Priority: optional
+Architecture: all
+Depends: debconf(>=0.2.26)
+Maintainer: Shital
+Description: Modified calculator
